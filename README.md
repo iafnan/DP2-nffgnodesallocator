@@ -7,7 +7,7 @@ Remote NFFG management system using XML language over RESTful API.
 - NFFG and IN concept in contemporary IP networks
 - XML metalanguage and XSD creation best practices
 - Build automation using Ant
-- JAXB api and value class customization
+- JAXB matrshalling, unmarshalling and value class customization
 - JAXRS api and Jersey implementation
 - REST design principles as in Roy fielding's dissertation and API documentation/testing tools
 - Abstract factory design pattern (creational) and exception handling best practices
